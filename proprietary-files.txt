@@ -642,30 +642,30 @@ vendor/lib64/libllvm-qcom.so
 
 # Graphics (SDM)
 vendor/etc/SVIConfig.xml
-vendor/lib/libdisp-aba.so
-vendor/lib/libdisplayqos.so
-vendor/lib/libhdr_tm.so
-vendor/lib64/libdisp-aba.so
-vendor/lib64/libdisplayqos.so
-vendor/lib64/libhdr_tm.so
 
-# Graphics (SDM) - from NX627J RKQ1.200826.002
-vendor/lib/libqseed3.so|3d54259d2b90b6193ff4b2565ad82b15a31b42af
-vendor/lib/libsdedrm.so|abb87737f0833482c77134c7cd5991f20b106a20
-vendor/lib/libsdm-color.so|f83bb292a60dba8ff3b8efc643a0494e556a40c1
-vendor/lib/libsdm-colormgr-algo.so|ff4d2727b6a89d405729c17cd5a565dd5a2b614d
-vendor/lib/libsdm-diag.so|5cd1fa74b3bed8039ac82faecff59ed31231d1c1
-vendor/lib/libsdm-disp-vndapis.so|951ad465af2faece2d79ecf7a2ea60bb676505c6
-vendor/lib/libsdmextension.so|51957aaf2e9481fa8aeb102ea654b33a07a204c0
-vendor/lib/libtinyxml2_1.so|73f7b6a9aa52ac469c01d60d72219d2d0f4b11e1
-vendor/lib64/libqseed3.so|a449d79b912415f542509874b43338b27795a1c3
-vendor/lib64/libsdedrm.so|582910d21139781ad9e414c35207584f51e035e2
-vendor/lib64/libsdm-color.so|b2bcf2c205b501024407ed5c216d2b290688bd64
-vendor/lib64/libsdm-colormgr-algo.so|6d17546d7822803700dc21968f75069d1b7392b1
-vendor/lib64/libsdm-diag.so|3d5c311d7d5d842e5a75e9ae3f9f70ceb00cd1cf
-vendor/lib64/libsdm-disp-vndapis.so|42f536763a2f91dcbae5b4b7214e652283c389d6
-vendor/lib64/libsdmextension.so|0aed8ab6ecf878ae57ecba4b8a9bfb0d184ab5f7
-vendor/lib64/libtinyxml2_1.so|621dbc8e3d0529b9ee35393698de82ea006ca7fa
+# Graphics (SDM) - from LA.UM.9.1.r1-09200-SMxxx0.0
+vendor/lib/libdisp-aba.so|b87736fe3caa6bedbfe1f919932a4aa49b50b733
+vendor/lib/libdisplayqos.so|08488a3d75cf0ad0d20251a12c51b53cd8823527
+vendor/lib/libhdr_tm.so|e8697773d1868876f36e98dc68500919668c9acb
+vendor/lib/libqseed3.so|4bd5267c3a360de23a65cdb8b3996191851e9648
+vendor/lib/libsdedrm.so|b6b5ae7009a1de6abd2b62f70668dac0c9b5cbb0
+vendor/lib/libsdm-color.so|18b633ea3bb1211afb7a4b3db84d99d1b3c146f5
+vendor/lib/libsdm-colormgr-algo.so|881ffdf26992858dcc3ac6024cf1c6deeaed0cfe
+vendor/lib/libsdm-diag.so|51e18d2bdba0aff7286a3ec85360caa59dac9d0d
+vendor/lib/libsdm-disp-vndapis.so|2aa9e2c14b069b7acbe339499f3a35714dcc5c8a
+vendor/lib/libsdmextension.so|502b3621a3b2150e0979828467bc79b4dcde1480
+vendor/lib/libtinyxml2_1.so|f00b8f6218271d57fd1fb67b192db956e42e66fb
+vendor/lib64/libdisp-aba.so|9ca3cf06fc99bcff7681e79ddc52596dc75b3fb0
+vendor/lib64/libdisplayqos.so|a263254a5252f4b93237a7972451233578635d2d
+vendor/lib64/libhdr_tm.so|e4638c3bf21685b84650c5858bafe384ab2118ff
+vendor/lib64/libqseed3.so|1395834daf3c6cd07acbdbc44110decb3be362c2
+vendor/lib64/libsdedrm.so|a9a3ffb121f65c66615f1852cdb3d59063d90b5b
+vendor/lib64/libsdm-color.so|811942ec009988723efb07d7797a07298ed0efb0
+vendor/lib64/libsdm-colormgr-algo.so|11b65733d87ff65633a5fe8f4207dde12391625c
+vendor/lib64/libsdm-diag.so|2819ee69be927f812fbf1d5898a28f4cdb7ccea8
+vendor/lib64/libsdm-disp-vndapis.so|9ab6725a5efba29b77d1d6ab33e10e3ff3296960
+vendor/lib64/libsdmextension.so|ec687a052c727dda97a42ac0b0693bfc32963dd1
+vendor/lib64/libtinyxml2_1.so|92101861d95cbdf9625d192d0b2295baa5960b68
 
 # Graphics firmware
 vendor/firmware/a615_zap.b00
